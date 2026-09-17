@@ -47,6 +47,27 @@ A continuación se detallan las características visuales que respaldan este dia
 
 ---
 
+Para extraer información cuantitativa y cualitativa más precisa sobre la deformación a partir de técnicas fotográficas, es fundamental controlar la iluminación, la geometría de la toma, la profundidad de campo y la preparación de la superficie.
+
+**1. Esquema de Iluminación Técnica**
+
+* **Luz rasante (ángulo bajo):** Proyectar luz a pocos grados de la superficie acentúa las diferencias de relieve, haciendo muy visibles el grado de estricción (adelgazamiento), la depresión del material y las microgrietas secundarias.
+* **Luz difusa y polarización cruzada:** Utilizar difusores y filtros polarizadores elimina los reflejos metálicos encandilantes (*glare*), permitiendo apreciar las líneas de flujo del plano de cizalladura y el cambio de textura del metal.
+
+**2. Geometría, Ortogonalidad y Escala de Referencia**
+
+* **Toma ortogonal (a 90° del plano):** Evita la distorsión por perspectiva. Permite medir con precisión el cambio de dimensiones respecto al estado no deformado mediante análisis digital de imágenes.
+* **Inclusión de regla o escala en el mismo plano focal:** Es indispensable colocar un patrón graduado o mira fotogramétrica al lado de la zona de falla para transformar píxeles en unidades métricas reales ($mm$) y calcular la deformación unitaria ($\epsilon$).
+
+**3. Profundidad de Campo y Focus Stacking (Apilado de Enfoque)**
+
+* La topografía irregular de la fractura requiere cerrar el diafragma ($f/8$ a $f/11$) o realizar un **apilado de enfoque** (*focus stacking*): capturar una serie de fotografías variando levemente el plano de enfoque para combinarlas en software. Esto produce una imagen 100% nítida desde la cara superior de la chapa hasta el fondo de la ruptura.
+
+**4. Fotogrametría 3D y Correlación Digital de Imágenes (DIC)**
+
+* **Fotografía Estereoscópica:** Tomar pares de fotos desde dos ángulos ligeramente desplazados permite reconstruir la topografía tridimensional de la deformación mediante software de fotogrametría.
+* **Patrón de moteado (*Speckle Pattern*):** Si se aplica un patrón estocástico de pintura (puntos negros sobre fondo blanco) en la chapa, el análisis fotográfico mediante DIC (Correlación Digital de Imágenes) permite generar un mapa continuo de tensiones y deformaciones de la pieza previa o posterior al colapso.
+
 ### Recomendaciones para Confirmación
 
 * **Fractografía SEM (Microscopía Electrónica de Barrido):** Para confirmar definitivamente la falla dúctil mediante la presencia de hoyuelos (*dimples*) a nivel microscópico.
