@@ -3,7 +3,7 @@
 
 ## Integrantes
 
-| Nombre | Perfil de GitHub |
+| Nombre | Repositorio de GitHub |
 | :--- | :--- |
 | Ruben Exequiel Cruz | (https://github.com/Rubencruz0703) |
 | Simon Fischer | (https://github.com/Simon-Fischer-2015) |
