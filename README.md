@@ -9,4 +9,4 @@
 | Simon Fischer | (https://github.com/Simon-Fischer-2015) |
 | Ignacio Don | (https://github.com/IgnacioDon/Entrega-Modulos-TYHM-II-) |
 | Alondra Ludueña | (https://github.com/alondraluduena/Entrega-Modulos-TyHM2) |
-| Joaquin Bressan "therian paloma" | (https://github.com/usuario5) |
+| Joaquin Bressan | (https://github.com/usuario5) |
